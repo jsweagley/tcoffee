@@ -9,7 +9,7 @@ Installation
 This chapter describes the installation procedures relevant for a standard use of T-Coffee on the most common operative systems: Unix/Linux and Mac OS. T-Coffee can only be installed on windows using virtual box simulating a Linux environement. We maintain two versions of T-Coffee:
 
 
- 1) the ** `stable version <http://tcoffee.org/Packages/tcoffee/Stable/> `** This is an extensively evaluated version, either linked to the latest paper or benefiting from an important fix- ** recommended **.
+ 1) the ** `stable version <http://tcoffee.org/Packages/Stable/Latest> `** This is an extensively evaluated version, either linked to the latest paper or benefiting from an important fix- ** recommended **.
  2) the ** `beta version <http://www.tcoffee.org/Packages/Beta/Latest/> `** is the latest release. It passes all the main tests and is usualy of higher quality that the stable. It is recommended to start installing this version if you experience any issue with the stable.
  3) the ** `archives  <http://www.tcoffee.org/Packages/Archives/> `** all previous releases of T-Coffee. If the one you need is missing please contact us. 
 
